@@ -6,6 +6,10 @@ Using the methods from this article -->  https://www.justintodata.com/data-clean
 
 ## Libraries
 - pandas
+- seaborn
+- matplotlib
+- missingno
+- nltk
 
 ## Skills
 - data manipulation
